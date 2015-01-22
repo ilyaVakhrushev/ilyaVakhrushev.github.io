@@ -1,0 +1,7 @@
+document.onreadystatechange = function (ready) {
+  var scrollable = document.querySelector('.scrollable');
+  scrollable.onmousewheel = function (ev) {
+    scrollable.scrollLeft += -ev.wheelDelta / 5;
+    ev.preventDefault();
+  }
+}
