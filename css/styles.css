@@ -229,3 +229,8 @@ font: 18px "Century Gothic",Helvetica,Arial,sans-serif;
 	font-size:14px;
 	margin:0 auto;
 }
+.header{
+	text-align:  center;
+	font-family: "Century Gothic",Helvetica,Arial,sans-serif;
+	font-size: 21px;
+	color:#6D6E71;}
