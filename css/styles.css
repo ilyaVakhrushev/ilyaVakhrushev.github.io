@@ -238,3 +238,15 @@ font: 18px "Century Gothic",Helvetica,Arial,sans-serif;
 .photos{
 	padding-top:42px;
 }
+.footer{
+	width:100%;
+	padding:36px 0;
+}
+.footer .copyright{
+	display: table-cell;
+	width: 50%;
+    	vertical-align: middle;
+	font-size: 14px;
+	letter-spacing: 0.08em;
+	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
