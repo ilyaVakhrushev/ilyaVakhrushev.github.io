@@ -246,7 +246,8 @@ font: 18px "Century Gothic",Helvetica,Arial,sans-serif;
 	display: table-cell;
 	width: 50%;
     	vertical-align: middle;
-	font-size: 14px;
 	letter-spacing: 0.08em;
 	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    	font-size: 16px;
+    	background-color: #f2f2f2;
 }
