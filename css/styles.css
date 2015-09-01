@@ -240,13 +240,12 @@ font: 18px "Century Gothic",Helvetica,Arial,sans-serif;
 }
 .footer{
 	width:100%;
-	padding:36px 0;
+	padding:50px 0;
 }
 .footer .copyright{
 	display: table-cell;
-	width: 50%;
+	width: 80%;
     	vertical-align: middle;
-	letter-spacing: 0.08em;
 	font-family: "PT Sans", Helvetica, Arial, sans-serif;
     	font-size: 16px;
     	background-color: #f2f2f2;
