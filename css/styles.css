@@ -245,8 +245,7 @@ font: 18px "Century Gothic",Helvetica,Arial,sans-serif;
 }
 .footer .copyright{
 	display: table-cell;
-	width: 80%;
-    	vertical-align: middle;
+	vertical-align: middle;
 	font-family: "Century Gothic",Helvetica,Arial,sans-serif;
     	font-size: 16px;
     	color:#6D6E71;
