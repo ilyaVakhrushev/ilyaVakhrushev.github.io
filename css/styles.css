@@ -243,6 +243,7 @@ font: 18px "Century Gothic",Helvetica,Arial,sans-serif;
 	width:100%;
 	padding:50px 0;
 	background-color: #f2f2f2;
+	text-align:center;
 }
 .footer .copyright{
 	display: table-cell;
@@ -251,6 +252,3 @@ font: 18px "Century Gothic",Helvetica,Arial,sans-serif;
     	font-size: 16px;
     	color:#6D6E71;
     	}
-
-.footer .copyright p{
-	text-align:center;}
