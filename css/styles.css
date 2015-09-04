@@ -255,5 +255,6 @@ font: 18px "Century Gothic",Helvetica,Arial,sans-serif;
 
 .container p{
 	font-family:"Century Gothic",Helvetica,Arial,sans-serif;
-	font-size:12px;
+	font-size:16px;
+	color:#6D6E71;
 }
