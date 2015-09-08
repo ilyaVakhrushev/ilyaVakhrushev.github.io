@@ -4,9 +4,7 @@ body{
   height:100%;
   width:100%;
   margin:0;
-  position:relative;
-  
-}
+  }
 .container{
 min-width: 80%;
 overflow:visible;
